@@ -1,0 +1,15 @@
+{
+  "terms": [
+    {
+      "id": 1,
+      "word": "ahoj",
+      "definition": "lorem10"
+    },
+
+    {
+      "id": 2,
+      "word": "ahoooooj",
+      "definition": "lorem"
+    }
+  ]
+}
