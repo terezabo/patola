@@ -1,10 +1,9 @@
 import React from 'react'
+import Add from '../../components/5_add/Add'
 
 const Edit = () => {
   return (
-    <div>
-      Edit
-    </div>
+    <Add />
   )
 }
 
