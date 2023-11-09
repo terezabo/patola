@@ -1,6 +1,6 @@
-import './App.css'
-import 'bootstrap/dist/css/bootstrap.min.css'
+import './App.scss'
 
+import Button from 'react-bootstrap/Button';
 
 import Navbar from './components/1_navbar/Navbar'
 import Search from './components/2_search/Search'
@@ -63,6 +63,7 @@ function App() {
 
   return (
     <div className="container">
+      <Button variant="primary">ahoj</Button>
       <Navbar />
       <Search />
       <main>
