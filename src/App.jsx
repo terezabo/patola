@@ -1,6 +1,9 @@
 import './App.scss'
 
-import Button from 'react-bootstrap/Button';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Stack from 'react-bootstrap/Stack';
 
 import Navbar from './components/1_navbar/Navbar'
 import Search from './components/2_search/Search'
@@ -62,10 +65,14 @@ function App() {
 
 
   return (
-    <div className="container">
-      <Button variant="primary">ahoj</Button>
-      <Navbar />
-      <Search />
+    <Container>
+      <Row className="mb-3">
+        <Navbar />
+      </Row>
+      <Row className="mb-3">
+        <Search />
+      </Row>
+
       <main>
         {isLoading && <p>Načítám...</p>}
         {fetchError && <p>{`Error: ${fetchError}`}</p>}
@@ -79,7 +86,7 @@ function App() {
       
 
       
-    </div>
+    </Container>
   )
 }
 

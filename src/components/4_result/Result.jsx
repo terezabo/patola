@@ -2,6 +2,10 @@ import React, { useState } from 'react'
 import { BsStarFill, BsStar } from 'react-icons/bs';
 import { FaTrashAlt } from 'react-icons/fa';
 
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Stack from 'react-bootstrap/Stack';
 
 
 const Result = ({terms, setTerms}) => {
@@ -21,15 +25,21 @@ const Result = ({terms, setTerms}) => {
   }
 
   return (
-    <div className="result">
+    <Container>
       {terms.map((term) => (
-        <div className="term" key={term.id}>
+        <Row key={term.id}>
 
-          <div className='title'>
-            <hr className="line line_left" />
-            <h3>{term.word}</h3>
-            <hr className="line line_right" />
-          </div>
+          <Row className='justify-content-center'>
+            <Col>
+              <hr className="line line_left" />
+            </Col>
+            <Col className='text-align-center'>
+              <h3 className='m-auto'>{term.word}</h3>
+            </Col>
+            <Col>
+              <hr className="line line_right" />
+            </Col>
+          </Row>
 
           <div className='content'>
             <h4>definice:</h4><p>{term.definition}</p>
@@ -38,18 +48,19 @@ const Result = ({terms, setTerms}) => {
           </div>
 
           <div className="oper">
-            {term.favorite ? <BsStarFill onClick={() => toggleFavorite(term.id)}/> : <BsStar onClick={() => toggleFavorite(term.id)}/>}
+            {term.favorite ? <BsStarFill className='icon' onClick={() => toggleFavorite(term.id)}/> : <BsStar className='icon' onClick={() => toggleFavorite(term.id)}/>}
             <FaTrashAlt
+              className='icon'
               onClick={() => handleDelete(term.id)}
               role='button'
             />
           </div>
 
-        </div>
+        </Row>
       ))}
     
     
-    </div>
+    </Container>
   )
 }
 

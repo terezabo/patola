@@ -1,6 +1,7 @@
-.container {
+/* .container {
   background-color: rgb(249, 242, 231);
-}
+} */
 
-@import 'styles/custom';
+@import 'styles/custom', '../src/components/1_navbar/navbar';
+
 
