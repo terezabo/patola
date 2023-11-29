@@ -11,7 +11,7 @@ import { AiOutlineSearch } from 'react-icons/ai'
 const Search = () => {
   return (
     <Stack direction="horizontal" gap={3}>
-      <Form.Control className="me-auto" placeholder="Add your item here..." />
+      <Form.Control className="me-auto" placeholder="Hledej..." />
       <Button variant="primary"><AiOutlineSearch  style={{ fontSize: '24px', color: 'white'}}/></Button>
     </Stack>
   );

@@ -6,7 +6,6 @@ import Col from 'react-bootstrap/Col';
 import Stack from 'react-bootstrap/Stack';
 
 import Navbar from './components/1_navbar/Navbar'
-import Search from './components/2_search/Search'
 import Content from './components/3_content/Content'
 
 
@@ -68,9 +67,6 @@ function App() {
     <Container>
       <Row className="mb-3">
         <Navbar />
-      </Row>
-      <Row className="mb-3">
-        <Search />
       </Row>
 
       <main>
