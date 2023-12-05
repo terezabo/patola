@@ -1,7 +1,7 @@
 {
   "terms": [
     {
-      "id": 1,
+      "id": 1000,
       "favorite": false,
       "alphabet": "n",
       "word": "nekróza",
@@ -11,7 +11,7 @@
       "photo": ""
     },
     {
-      "id": 2,
+      "id": 2000,
       "favorite": true,
       "alphabet": "a",
       "word": "apoptóza",
@@ -19,6 +19,1124 @@
       "definition": "Apoptóza neboli programovaná buněčná smrt je mechanismus sloužící k eliminaci nepotřebných či poškozených buněk.",
       "details": "Jedná se o zánik buňky způsobený aktivací cysteinových proteáz kaspáz a následně pak jaderných endonukleáz. Dochází k poškození jaderné DNA a k zástavě všech biosyntetických pochodů v buňce. Velký význam hraje v ontogenezi, kdy napomáhá k formování orgánů. Během apoptózy nedochází (na rozdíl od nekrózy) k bobtnání, prasknutí a vylití obsahu buňky, které by způsobilo zánětlivou reakci.",
       "photo": ""
+    },
+    {
+      "id": 1,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "adaptace",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "Reverzibilní, funkční nebo strukturální odpověď na změněné požadavky zvenčí.",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 2,
+      "favorite": false,
+      "alphabet": "r",
+      "word": "regresivní změny",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "Fenomény vedoucí k poškození buněk, případně až k jejich odumření.",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 3,
+      "favorite": false,
+      "alphabet": "b",
+      "word": "buněčná smrt",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "Reakce na poškozující stimuly, vyskytuje se v několika formách - apoptóza, nekróza, nekroptóza a další",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 4,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "autofagie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "Zánik kompartmentů cytoplazmy, který nevede k nezvratné ztrátě životaschopnosti buňky.",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 5,
+      "favorite": false,
+      "alphabet": "r",
+      "word": "reversibilní poškození",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "Mírnější stupeň poškození, který vede např. ke kumulaci metabolitů.",
+      "details": "Kvůli ztrátě schopnosti metabolizovat substráty dochází ke steatóze, glykogenóze, cholestázi.",
+      "photo": ""
+    },
+    {
+      "id": 6,
+      "favorite": false,
+      "alphabet": "i",
+      "word": "ireversibilní poškození",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 7,
+      "favorite": false,
+      "alphabet": "h",
+      "word": "hypertrofie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 8,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "pseudohypertrofie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 9,
+      "favorite": false,
+      "alphabet": "h",
+      "word": "hyperplázie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 10,
+      "favorite": false,
+      "alphabet": "h",
+      "word": "hypertrofie fyziologická",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 11,
+      "favorite": false,
+      "alphabet": "h",
+      "word": "hypertrofie patologická",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 12,
+      "favorite": false,
+      "alphabet": "m",
+      "word": "metaplázie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 13,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "atrofie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 14,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "atrofie prostá",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 15,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "atrofie numerická",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 16,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "atrophia fusca",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 17,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "atrophia gelatinosa",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 18,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "atrophia lipomatosa",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 19,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "fyziologická atrofie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 20,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "inaniční atrofie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 21,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "vaskulární atrofie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 22,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "tlaková atrofie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 23,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "denervační atrofie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 24,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "atrofie z inaktivity",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 25,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "atrofie z endokrinních příčin",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 26,
+      "favorite": false,
+      "alphabet": "m",
+      "word": "dlaždicobuněčná metaplázie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 27,
+      "favorite": false,
+      "alphabet": "m",
+      "word": "intestinální metaplázie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "Barretův jícen",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 28,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "apoptóza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "Apoptóza neboli programovaná buněčná smrt je mechanismus sloužící k eliminaci nepotřebných či poškozených buněk.",
+      "details": "Jedná se o zánik buňky způsobený aktivací cysteinových proteáz kaspáz a následně pak jaderných endonukleáz. Dochází k poškození jaderné DNA a k zástavě všech biosyntetických pochodů v buňce. Velký význam hraje v ontogenezi, kdy napomáhá k formování orgánů. Během apoptózy nedochází (na rozdíl od nekrózy) k bobtnání, prasknutí a vylití obsahu buňky, které by způsobilo zánětlivou reakci.",
+      "photo": ""
+    },
+    {
+      "id": 29,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "nekróza",
+      "topic": "Buněčná smrt",
+      "definition": "Nekróza je intravitální odumření tkáně.",
+      "details": "Zahrnuje celé spektrum morfologických změn, které probíhají po zániku buňky. Vývoj nekrotických změn trvá několik hodin, a proto nejsou makroskopicky zřejmé bezprostředně po odumření buněk. Většinou se jedná o patologický proces, ale může být součástí i procesů fyziologických (např. alternativní cesta likvidace nádorových buněk, které inaktivují apoptózu).",
+      "photo": ""
+    },
+    {
+      "id": 30,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "nekroptóza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 31,
+      "favorite": false,
+      "alphabet": "k",
+      "word": "kalné zduření",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 32,
+      "favorite": false,
+      "alphabet": "h",
+      "word": "hydrops buněk",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 33,
+      "favorite": false,
+      "alphabet": "v",
+      "word": "vakuolární degenerace",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 34,
+      "favorite": false,
+      "alphabet": "s",
+      "word": "steatóza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 35,
+      "favorite": false,
+      "alphabet": "b",
+      "word": "blebs",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 36,
+      "favorite": false,
+      "alphabet": "m",
+      "word": "myelinové figury",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 37,
+      "favorite": false,
+      "alphabet": "b",
+      "word": "Balserova nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 38,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "pyknóza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 39,
+      "favorite": false,
+      "alphabet": "k",
+      "word": "karyorhexe",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 40,
+      "favorite": false,
+      "alphabet": "k",
+      "word": "karyolýza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 41,
+      "favorite": false,
+      "alphabet": "i",
+      "word": "inspisace",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 42,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "prostá nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 43,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "koagulační nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 44,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "kolikvační nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 45,
+      "favorite": false,
+      "alphabet": "i",
+      "word": "infarkt",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 46,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "absces",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 47,
+      "favorite": false,
+      "alphabet": "e",
+      "word": "encefalomalacie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 48,
+      "favorite": false,
+      "alphabet": "z",
+      "word": "zrnéčkové buňky",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 49,
+      "favorite": false,
+      "alphabet": "g",
+      "word": "glióza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 50,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "postmalatická pseudocysta",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 51,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "kaseifikační nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 52,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "Zenkerova vosková nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 53,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "hemoragická nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 54,
+      "favorite": false,
+      "alphabet": "h",
+      "word": "hemoragická infarzace",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 55,
+      "favorite": false,
+      "alphabet": "f",
+      "word": "fibrinoidní nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 56,
+      "favorite": false,
+      "alphabet": "i",
+      "word": "ischemická nekróza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 57,
+      "favorite": false,
+      "alphabet": "g",
+      "word": "gangréna",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 58,
+      "favorite": false,
+      "alphabet": "s",
+      "word": "suchá gangréna",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 59,
+      "favorite": false,
+      "alphabet": "g",
+      "word": "vlhká gangréna",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 60,
+      "favorite": false,
+      "alphabet": "g",
+      "word": "plynatá gangréna",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 61,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "apoptotická tělíska",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 62,
+      "favorite": false,
+      "alphabet": "i",
+      "word": "intrinsická cesta",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 63,
+      "favorite": false,
+      "alphabet": "e",
+      "word": "extrinsická cesta",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 64,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "anoikis",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 65,
+      "favorite": false,
+      "alphabet": "n",
+      "word": "nekrozóm",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 66,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "pyroptóza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 67,
+      "favorite": false,
+      "alphabet": "i",
+      "word": "inflamazóm",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 68,
+      "favorite": false,
+      "alphabet": "f",
+      "word": "feroptóza",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 69,
+      "favorite": false,
+      "alphabet": "m",
+      "word": "mikroautofagie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 70,
+      "favorite": false,
+      "alphabet": "m",
+      "word": "makroautofagie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 71,
+      "favorite": false,
+      "alphabet": "f",
+      "word": "fagofor",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 72,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "autofagopolyzóm",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 73,
+      "favorite": false,
+      "alphabet": "s",
+      "word": "stárnutí",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 74,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "progerie",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 75,
+      "favorite": false,
+      "alphabet": "w",
+      "word": "Wernerův syndrom",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 76,
+      "favorite": false,
+      "alphabet": "b",
+      "word": "Bloomův syndrom",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 77,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "ataxia teleangiectasia",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 78,
+      "favorite": false,
+      "alphabet": "s",
+      "word": "sirtuiny",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 79,
+      "favorite": false,
+      "alphabet": "s",
+      "word": "smrt",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 80,
+      "favorite": false,
+      "alphabet": "k",
+      "word": "kadaverózní změny",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 81,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "autolýza",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 82,
+      "favorite": false,
+      "alphabet": "h",
+      "word": "heterolýza",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 83,
+      "favorite": false,
+      "alphabet": "a",
+      "word": "algor mortis",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 84,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "palor mortis",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 85,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtné skvrny",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 86,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtný chlad",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 87,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtná bledost",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 88,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtná difúze tekutin",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 89,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtná difúze plynů",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 90,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtné vysychání",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 91,
+      "favorite": false,
+      "alphabet": "r",
+      "word": "rigor mortis",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 92,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtná ztuhlost",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 93,
+      "favorite": false,
+      "alphabet": "c",
+      "word": "cruores mortis",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 94,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtná koagula",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 95,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "posmrtné samonatrávení",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 96,
+      "favorite": false,
+      "alphabet": "h",
+      "word": "hniloba",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 97,
+      "favorite": false,
+      "alphabet": "p",
+      "word": "putrefakce",
+      "topic": "Smrt",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 98,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Hemodynamické poruchy",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 99,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 100,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 101,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 102,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 103,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 104,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 105,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 106,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 107,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 108,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 109,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 110,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
+    },
+    {
+      "id": 111,
+      "favorite": false,
+      "alphabet": "",
+      "word": "",
+      "topic": "Změny životaschopnosti buněk",
+      "definition": "",
+      "details": "",
+      "photo": ""
     }
+
+
+
+
+
+
+
+
   ]
 }

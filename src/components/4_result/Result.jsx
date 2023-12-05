@@ -33,8 +33,8 @@ const Result = ({terms, setTerms}) => {
             <Col>
               <hr className="line line_left" />
             </Col>
-            <Col className='text-align-center'>
-              <h3 className='m-auto'>{term.word}</h3>
+            <Col className='text-center'>
+              <h3>{term.word}</h3>
             </Col>
             <Col>
               <hr className="line line_right" />
