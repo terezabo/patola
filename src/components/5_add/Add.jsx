@@ -27,7 +27,6 @@ const Add = ({terms, setTerms}) => {
     console.log('addedTerm:', addedTerm);
     const listTerms = [...terms, addedTerm];
     setTerms(listTerms);
-    localStorage.setItem('patola', JSON.stringify(listTerms));
 
     const postOptions = {
       method: 'POST',

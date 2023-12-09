@@ -1329,16 +1329,6 @@
       "photo": ""
     },
     {
-      "id": 2020,
-      "favorite": false,
-      "alphabet": "",
-      "word": "cccccccc",
-      "topic": "smt",
-      "definition": "",
-      "details": "",
-      "photo": ""
-    },
-    {
       "id": 2021,
       "favorite": false,
       "alphabet": "",
@@ -1347,16 +1337,6 @@
       "definition": "",
       "details": "",
       "photo": ""
-    },
-    {
-      "id": 2022,
-      "favorite": false,
-      "alphabet": "",
-      "word": "gggggggggggg",
-      "topic": "",
-      "definition": "",
-      "details": "",
-      "photo": "C:\\fakepath\\21167230_1095300490599837_1682726937014038927_o.jpg"
     }
   ]
 }
