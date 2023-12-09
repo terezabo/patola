@@ -8,7 +8,8 @@ import Col from 'react-bootstrap/Col';
 import Stack from 'react-bootstrap/Stack';
 
 
-const Result = ({terms, setTerms}) => {
+
+const Result = ({ terms, setTerms, query }) => {
   const [btnHover, setBtnHover] = useState(false);
 
 
@@ -25,9 +26,14 @@ const Result = ({terms, setTerms}) => {
     setTerms(updatedTerms);
   }
 
+  const searchedTerms = terms.filter(term => {
+    return typeof term.word === 'string' && term.word.toLowerCase().includes(query.toLowerCase());
+  });
+
+
   return (
     <Container>
-      {terms.map((term) => (
+      {searchedTerms.map((term) => (
         <Row key={term.id}>
 
           <Row className='justify-content-center'>
