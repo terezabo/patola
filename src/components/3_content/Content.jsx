@@ -12,7 +12,7 @@ const Content = ({terms, setTerms}) => {
     <Routes>
       <Route path='' element={<Home terms={terms} setTerms={setTerms}/>}  />
       <Route path='/saved' element={<Saved />}  />
-      <Route path='/edit' element={<Edit />}  />
+      <Route path='/edit' element={<Edit terms={terms} setTerms={setTerms}/>}  />
     </Routes>
 
   )

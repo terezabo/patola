@@ -1,9 +1,9 @@
 import React from 'react'
 import Add from '../../components/5_add/Add'
 
-const Edit = () => {
+const Edit = ({terms, setTerms}) => {
   return (
-    <Add />
+    <Add terms={terms} setTerms={setTerms}/>
   )
 }
 

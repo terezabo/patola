@@ -1,15 +1,16 @@
-import './App.scss'
+import './App.scss';
 
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Stack from 'react-bootstrap/Stack';
 
-import Navbar from './components/1_navbar/Navbar'
-import Content from './components/3_content/Content'
+import Navbar from './components/1_navbar/Navbar';
+import Content from './components/3_content/Content';
+import apiRequest from './apiRequest';
 
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react';
 
 
 
@@ -40,7 +41,6 @@ function App() {
   ]);
 
 
-  const [newTerm, setNewTerm] = useState('')
   const [fetchError, setFetchError] = useState(null)
   const [isLoading, setIsLoading] = useState(true);
 

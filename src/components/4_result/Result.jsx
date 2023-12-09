@@ -9,7 +9,8 @@ import Stack from 'react-bootstrap/Stack';
 
 
 const Result = ({terms, setTerms}) => {
-  console.log(terms)
+  const [btnHover, setBtnHover] = useState(false);
+
 
 
   const toggleFavorite = (id) => {
@@ -48,9 +49,18 @@ const Result = ({terms, setTerms}) => {
           </div>
 
           <div className="oper">
-            {term.favorite ? <BsStarFill className='icon' onClick={() => toggleFavorite(term.id)}/> : <BsStar className='icon' onClick={() => toggleFavorite(term.id)}/>}
+            {term.favorite || btnHover
+              ? < BsStarFill className='icon star' onClick={() => toggleFavorite(term.id)}
+              onMouseLeave={() => setBtnHover(false)}
+              />
+              : <BsStar className='icon' 
+                  onClick={() => toggleFavorite(term.id)}
+                  onMouseEnter={() => setBtnHover(true)}
+                  onMouseLeave={() => setBtnHover(false)}
+                />
+            }
             <FaTrashAlt
-              className='icon'
+              className='icon trash'
               onClick={() => handleDelete(term.id)}
               role='button'
             />
