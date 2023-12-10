@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Row from 'react-bootstrap/Row';
 
 import Result from '../../components/4_result/Result'
@@ -7,8 +7,7 @@ import Search from '../../components/2_search/Search'
 
 
 
-const Home = ({terms, setTerms}) => {
-  const [query, setQuery] = useState('')
+const Home = ({ terms, setTerms, query, setQuery }) => {
 
 
   return (
@@ -17,7 +16,7 @@ const Home = ({terms, setTerms}) => {
         <Search query={query} setQuery={setQuery}/>
       </Row>
 
-      <Result terms={terms} setTerms={setTerms} query={query}/>
+      <Result terms={terms} setTerms={setTerms} query={query} onlyFavorites={false}/>
     </>
   )
 }

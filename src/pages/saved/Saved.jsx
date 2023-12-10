@@ -2,19 +2,20 @@ import React from 'react'
 
 import Row from 'react-bootstrap/Row';
 import Search from '../../components/2_search/Search'
+import Result from '../../components/4_result/Result';
 
 
-const Saved = () => {
+const Saved = ({ terms, setTerms, query, setQuery }) => {
   return (
     <>
       <Row className="mb-3">
-        <Search />
+        <Search query={query} setQuery={setQuery}/>
       </Row>
-      <div>
-        Saved
-      </div>
+      <h1>"oblíbené"</h1>
 
+      <Result terms={terms} setTerms={setTerms} query={query} onlyFavorites={true}/>
     </>
+
   )
 }
 

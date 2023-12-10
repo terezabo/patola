@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 import { Route, Routes } from 'react-router-dom'
 
@@ -8,10 +8,12 @@ import Edit from '../../pages/edit/Edit'
 
 
 const Content = ({terms, setTerms}) => {
+  const [query, setQuery] = useState('')
+
   return (
     <Routes>
-      <Route path='' element={<Home terms={terms} setTerms={setTerms}/>}  />
-      <Route path='/saved' element={<Saved />}  />
+      <Route path='' element={<Home terms={terms} setTerms={setTerms} query={query} setQuery={setQuery}/>}  />
+      <Route path='/saved' element={<Saved terms={terms} setTerms={setTerms} query={query} setQuery={setQuery}/>}  />
       <Route path='/edit' element={<Edit terms={terms} setTerms={setTerms}/>}  />
     </Routes>
 
