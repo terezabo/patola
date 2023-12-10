@@ -169,7 +169,7 @@ const Result = ({ terms, setTerms, query, onlyFavorites }) => {
             </Row>
           )
         )
-      };
+      }
     </Container>
   
 )}

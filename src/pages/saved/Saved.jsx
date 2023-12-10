@@ -11,7 +11,6 @@ const Saved = ({ terms, setTerms, query, setQuery }) => {
       <Row className="mb-3">
         <Search query={query} setQuery={setQuery}/>
       </Row>
-      <h1>"oblíbené"</h1>
 
       <Result terms={terms} setTerms={setTerms} query={query} onlyFavorites={true}/>
     </>

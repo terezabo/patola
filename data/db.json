@@ -2,7 +2,7 @@
   "terms": [
     {
       "id": 1000,
-      "favorite": true,
+      "favorite": false,
       "alphabet": "n",
       "word": "nekróza",
       "topic": "Buněčná smrt",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2000,
-      "favorite": false,
+      "favorite": true,
       "alphabet": "a",
       "word": "apoptóza",
       "topic": "Buněčná smrt",
