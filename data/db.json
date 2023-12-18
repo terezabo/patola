@@ -42,7 +42,7 @@
     },
     {
       "id": 3,
-      "favorite": false,
+      "favorite": true,
       "alphabet": "b",
       "word": "buněčná smrt",
       "topic": "Změny životaschopnosti buněk",
@@ -1310,30 +1310,10 @@
     },
     {
       "id": 2018,
-      "favorite": false,
+      "favorite": true,
       "alphabet": "",
       "word": "ffffffffffff",
       "topic": "smrt",
-      "definition": "",
-      "details": "",
-      "photo": ""
-    },
-    {
-      "id": 2019,
-      "favorite": false,
-      "alphabet": "",
-      "word": "cccccccccc",
-      "topic": "",
-      "definition": "",
-      "details": "",
-      "photo": ""
-    },
-    {
-      "id": 2021,
-      "favorite": false,
-      "alphabet": "",
-      "word": "aaaaaaaaaaaaaaaa",
-      "topic": "Změny životaschopnosti buněk",
       "definition": "",
       "details": "",
       "photo": ""

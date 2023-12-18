@@ -1,3 +1,3 @@
-const API_URL = 'http://localhost:3500/terms';
+const API_URL = 'https://superb-heliotrope-4c3468.netlify.app';
 
 export default API_URL;
