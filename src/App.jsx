@@ -7,9 +7,8 @@ import Stack from 'react-bootstrap/Stack';
 
 import Navbar from './components/1_navbar/Navbar';
 import Content from './components/3_content/Content';
-import apiRequest from './apiRequest';
 import API_URL from './apiConfig';
-
+import apiRequest from './apiRequest';
 
 import { useEffect, useState } from 'react';
 
