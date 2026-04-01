@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100;
+  }
+}
+
+@layer components {
+  .category-cellular { @apply bg-red-50 dark:bg-red-950 border-l-4 border-red-600; }
+  .category-adaptation { @apply bg-orange-50 dark:bg-orange-950 border-l-4 border-orange-600; }
+  .category-circulation { @apply bg-yellow-50 dark:bg-yellow-950 border-l-4 border-yellow-600; }
+  .category-healing { @apply bg-green-50 dark:bg-green-950 border-l-4 border-green-600; }
+  .category-inflammation { @apply bg-blue-50 dark:bg-blue-950 border-l-4 border-blue-600; }
+  .category-tumor { @apply bg-purple-50 dark:bg-purple-950 border-l-4 border-purple-600; }
+  .category-deposits { @apply bg-amber-50 dark:bg-amber-950 border-l-4 border-amber-700; }
+  .category-immune { @apply bg-gray-50 dark:bg-gray-800 border-l-4 border-gray-600; }
+  .category-cardio { @apply bg-pink-50 dark:bg-pink-950 border-l-4 border-pink-600; }
+  .category-hemato { @apply bg-rose-50 dark:bg-rose-950 border-l-4 border-rose-800; }
+  .category-respiratory { @apply bg-cyan-50 dark:bg-cyan-950 border-l-4 border-cyan-600; }
+  .category-git { @apply bg-lime-50 dark:bg-lime-950 border-l-4 border-lime-600; }
+  .category-renal { @apply bg-indigo-50 dark:bg-indigo-950 border-l-4 border-indigo-700; }
+  .category-gyneco { @apply bg-violet-50 dark:bg-violet-950 border-l-4 border-violet-400; }
+  .category-cns { @apply bg-indigo-50 dark:bg-indigo-950 border-l-4 border-indigo-600; }
+  .category-bone { @apply bg-amber-50 dark:bg-amber-950 border-l-4 border-amber-600; }
+  
+  .topic-completed {
+    @apply line-through text-gray-400 dark:text-gray-600;
+  }
+  
+  .progress-bar {
+    @apply h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden;
+  }
+  
+  .progress-fill {
+    @apply h-full bg-gradient-to-r from-blue-500 to-green-500 transition-all duration-300;
+  }
+}
